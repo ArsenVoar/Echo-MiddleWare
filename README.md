@@ -1,2 +1,1 @@
-# IDK
- 
+Instalation : .1. Go to https://go.dev/dl/ and install go package for your oc .2. Use Terminal or CMD in your PC .4. Go to start folder using terminal or cmd (Where main.go) and write : "go run main.go" .5.Go to browser and write in to search : "localhost:8080" .6. Open Postman Programm ( https://www.postman.com/downloads/ ) .7. Import json file ( IDK.json ) in Postman and open collections/1/127.0.0.1:8080/status .8. Click Send in blue button in the top right corner .9. You should see days to 2026 .10.It's all!
